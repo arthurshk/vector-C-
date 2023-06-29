@@ -1,4 +1,4 @@
-//домашнє завдання №27 артyp
+
 #include <iostream>
 #include <iomanip>
 #include <string>
